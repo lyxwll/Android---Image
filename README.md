@@ -14,7 +14,14 @@ ImageFilter库图片效果对比：![image](http://cms.csdnimg.cn/article/201305
 ![image](https://github.com/lyft/scissors/blob/master/art/demo.gif)         
 
 
-4.
+4.This project is an implementation of the User Profile Interface Animation.                   
+项目地址:https://github.com/Yalantis/Euclid             
+![image](https://camo.githubusercontent.com/b01a910b14ef3573c9e75ce150ef76e155cbbe98/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313734343135372f39396d696c65732d7573657270726f66696c652d616e696d6174696f6e5f312d312d332e676966)
+
+
+5.
+
+
 
 
 
