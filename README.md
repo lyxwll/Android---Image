@@ -28,7 +28,12 @@ ImageFilter库图片效果对比：![image](http://cms.csdnimg.cn/article/201305
 ![image](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67)           
 
 
-7.
+**7.android powerful picture picker :图片选择库的轮子**      
+https://github.com/ValuesFeng/AndroidPicturePicker
+
+
+
+**8.**
 
 
 
