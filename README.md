@@ -35,7 +35,13 @@ https://github.com/ValuesFeng/AndroidPicturePicker
 <img src="./image/7-2.jpg" width="30%" height="25%" >
 
 
-**8.**
+**8.一个基于Picasso的图片多选库**    
+https://github.com/wuapnjie/PoiPhoto      
+
+
+**9.**
+
+
 
 
 
