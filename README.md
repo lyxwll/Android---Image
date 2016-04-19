@@ -39,7 +39,12 @@ https://github.com/ValuesFeng/AndroidPicturePicker
 https://github.com/wuapnjie/PoiPhoto      
 
 
-**9.**
+**9.ShapedImageView : 支持圆形 圆角矩形,支持显示边框,支持TransitionDrawable**  
+https://github.com/gavinliu/ShapedImageView    
+
+
+**10.**
+
 
 
 
