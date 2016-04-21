@@ -43,7 +43,11 @@ https://github.com/wuapnjie/PoiPhoto
 https://github.com/gavinliu/ShapedImageView    
 
 
-**10.**
+**10.Sketch是用于Android上的一个图片加载器，目的是为了帮助开发者从本地或网络读取图片，然后处理并显示在页面上 Sketch is for Android on a picture of the loader, the purpose is to help the developers to read the image from a local or network, then processed and displayed on the page**    
+https://github.com/xiaopansky/Sketch    
+
+
+**11.**
 
 
 
