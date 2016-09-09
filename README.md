@@ -47,9 +47,11 @@ https://github.com/gavinliu/ShapedImageView
 https://github.com/xiaopansky/Sketch    
 
 
-**11.**
+**11.对 ImageView 实现了全屏浏览效果，同时支持了图片缩放效果，和滑动消失效果**            
+https://github.com/stfalcon-studio/FrescoImageViewer   
 
 
+**12.**
 
 
 
