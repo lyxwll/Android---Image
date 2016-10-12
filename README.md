@@ -55,7 +55,10 @@ https://github.com/stfalcon-studio/FrescoImageViewer
 https://github.com/ParkSangGwon/TedBottomPicker          
 
 
-**13.**
+**13.抽取自Telegram，并加入QQ相册选择风格的图片选择器，高效，低耗，响应快速**       
+https://github.com/TangXiaoLv/TelegramGallery          
+
+**14.**
 
 
 
