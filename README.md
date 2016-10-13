@@ -64,9 +64,10 @@ https://github.com/smuyyh/ImageSelector
 **15.图片选择器**    
 https://github.com/917386389/imagepickerdemo    
 
-**16.**
+**16.朋友圈图片查看**                        
+https://github.com/razerdp/FriendCircle              
 
-
+**17.**
 
 
 
