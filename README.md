@@ -58,10 +58,13 @@ https://github.com/ParkSangGwon/TedBottomPicker
 **13.抽取自Telegram，并加入QQ相册选择风格的图片选择器，高效，低耗，响应快速**       
 https://github.com/TangXiaoLv/TelegramGallery          
 
-**14.**
+**14.Android 图片选择器。充分自由定制，极大程度简化使用，支持图库多选/图片预览/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调/沉浸式状态栏 http://blog.csdn.net/yyh352091626/article/details/52154583**           
+https://github.com/smuyyh/ImageSelector           
 
+**15.图片选择器**    
+https://github.com/917386389/imagepickerdemo    
 
-
+**16.**
 
 
 
