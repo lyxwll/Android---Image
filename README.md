@@ -67,7 +67,10 @@ https://github.com/917386389/imagepickerdemo
 **16.朋友圈图片查看**                        
 https://github.com/razerdp/FriendCircle              
 
-**17.**
+**17.图片裁剪image cropping layout**              
+项目地址：https://github.com/yulu/crop-image-layout           
+
+**18.**
 
 
 
