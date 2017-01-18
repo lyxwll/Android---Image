@@ -70,7 +70,10 @@ https://github.com/razerdp/FriendCircle
 **17.图片裁剪image cropping layout**              
 项目地址：https://github.com/yulu/crop-image-layout           
 
-**18.**
+**18.斜角 View 效果，用来做 Profile 背景最适合不过。With Diagonal Layout explore new styles and approaches on material design**          
+https://github.com/florent37/DiagonalLayout          
+
+**19.**
 
 
 
