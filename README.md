@@ -73,7 +73,11 @@ https://github.com/razerdp/FriendCircle
 **18.斜角 View 效果，用来做 Profile 背景最适合不过。With Diagonal Layout explore new styles and approaches on material design**          
 https://github.com/florent37/DiagonalLayout          
 
-**19.**
+**19.选择图片Photo Picker Of Android Library**      
+https://github.com/Werb/PickPhotoSample
+
+
+**20.**
 
 
 
